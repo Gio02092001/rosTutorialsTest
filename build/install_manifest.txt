@@ -1,0 +1,13 @@
+/home/gio/rosTutorialsTest/install/_setup_util.py
+/home/gio/rosTutorialsTest/install/env.sh
+/home/gio/rosTutorialsTest/install/setup.bash
+/home/gio/rosTutorialsTest/install/local_setup.bash
+/home/gio/rosTutorialsTest/install/setup.sh
+/home/gio/rosTutorialsTest/install/local_setup.sh
+/home/gio/rosTutorialsTest/install/setup.zsh
+/home/gio/rosTutorialsTest/install/local_setup.zsh
+/home/gio/rosTutorialsTest/install/.rosinstall
+/home/gio/rosTutorialsTest/install/lib/pkgconfig/beginner_tutorials.pc
+/home/gio/rosTutorialsTest/install/share/beginner_tutorials/cmake/beginner_tutorialsConfig.cmake
+/home/gio/rosTutorialsTest/install/share/beginner_tutorials/cmake/beginner_tutorialsConfig-version.cmake
+/home/gio/rosTutorialsTest/install/share/beginner_tutorials/package.xml

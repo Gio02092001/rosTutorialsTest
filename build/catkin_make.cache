@@ -1,0 +1,2 @@
+beginner_tutorials
+-DCATKIN_DEVEL_PREFIX=/home/gio/rosTutorialsTest/devel -DCMAKE_INSTALL_PREFIX=/home/gio/rosTutorialsTest/install -G Unix Makefiles
